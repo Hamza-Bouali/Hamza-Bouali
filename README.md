@@ -12,7 +12,7 @@
 
 
 ## Connect with Me
-linekdin: 
+linekdin: https://www.linkedin.com/in/hamza-bouali-4b11861a1/
 email   : hamzabouali322@gmail.com
 
 ---
