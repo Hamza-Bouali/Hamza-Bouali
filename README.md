@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]
+# Hello, I'm Hamza Bouali
 
 ## About Me
 - 📚 Student of Data Science and Knowledge Engineering
