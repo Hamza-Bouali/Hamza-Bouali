@@ -2,6 +2,7 @@
 
 ## About Me
 - 📚 Student of Data Science and Knowledge Engineering
+- Focusing on building ETL/ELT process infrastructures 
 - 💻 Experienced in Django development
 - 🌱 Continuously learning and exploring new technologies
 
