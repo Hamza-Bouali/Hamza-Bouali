@@ -2,6 +2,7 @@
 
 ## About Me
 - 📚 Student of Data Science and Knowledge Engineering
+- Focusing on building ETL/ELT process infrastructures 
 - 💻 Experienced in Django development
 - 🌱 Continuously learning and exploring new technologies
 
@@ -12,8 +13,9 @@
 
 
 ## Connect with Me
-- linekdin: https://www.linkedin.com/in/hamza-bouali-4b11861a1/
-- email   : hamzabouali322@gmail.com
+- linekdin  : https://www.linkedin.com/in/hamza-bouali-4b11861a1/
+- email     : hamzabouali322@gmail.com
+- portfolio : https://hamza-bouali.github.io/Hamza-Bouali/
 
 ---
 Always eager to collaborate on innovative projects and expand my skillset!
