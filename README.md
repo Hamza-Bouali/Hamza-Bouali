@@ -51,10 +51,4 @@ Hamza-Bouali/Hamza-Bouali is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
----
 
-### Key Additions:
-1. **React Proficiency**: Added under the **Web Development** section to highlight your frontend skills.  
-2. **Structure**: Kept the clean and professional structure intact while integrating the new information.  
-
-Let me know if you need further adjustments! 😊
