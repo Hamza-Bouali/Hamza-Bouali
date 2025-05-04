@@ -5,6 +5,7 @@
   ![Data Engineer](https://img.shields.io/badge/-Data%20Engineer-3498DB?style=for-the-badge)
   ![Full-Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-27AE60?style=for-the-badge)
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-9B59B6?style=for-the-badge)
+  ![AI Developer](https://img.shields.io/badge/-AI%20Developer-FF6B6B?style=for-the-badge)
 
 </div>
 
@@ -12,7 +13,7 @@
 
 Data Science & Knowledge Engineering student with expertise in building robust data pipelines and modern web applications. I combine analytical thinking with software development skills to create data-driven solutions that deliver real value.
 
-- 🔭 Currently working on **AI-powered SaaS platforms** and **healthcare digitization**
+- 🔭 Currently working on **AI-powered SaaS platforms**, **memory augmentation tools**, and **healthcare digitization**
 - 🌱 Learning advanced **ETL/ELT architecture** and **scalable ML deployment**
 - 💡 Passionate about transforming complex data into actionable insights
 - 🚀 Always seeking opportunities to solve challenging problems with technology
@@ -24,6 +25,7 @@ Data Science & Knowledge Engineering student with expertise in building robust d
 ### Data Engineering & Analytics
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ETL/ELT](https://img.shields.io/badge/-ETL%2FELT-FF6B6B?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-32CD32?style=flat-square)
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-4CAF50?style=flat-square)
 ![Data Processing](https://img.shields.io/badge/-Data%20Processing-5C6BC0?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF8C00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -31,6 +33,7 @@ Data Science & Knowledge Engineering student with expertise in building robust d
 
 ### Web Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/-Django%20REST-FF1709?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -41,6 +44,11 @@ Data Science & Knowledge Engineering student with expertise in building robust d
 </div>
 
 ## 🚀 Featured Projects
+
+### [MemorAI](https://memorai.tech/)
+An intelligent memory augmentation platform leveraging AI to enhance knowledge retention and retrieval.
+- **Tech Stack:** Django (API), Next.js, LangChain, AWS EC2, Git CI/CD
+- **Features:** AI-powered memory assistance, personalized learning, knowledge management
 
 ### [SmartLine](https://landing-page-orpin-two-87.vercel.app/)
 An AI-powered SaaS platform revolutionizing call center operations with intelligent automation and real-time analytics.
@@ -79,5 +87,3 @@ I'm always eager to work on innovative projects, contribute to open-source, and 
 If you're looking for a dedicated professional who combines data engineering with full-stack development skills, let's connect!
 
 </div>
-
-
