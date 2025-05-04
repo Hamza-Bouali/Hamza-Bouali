@@ -13,9 +13,9 @@
 
 Data Science & Knowledge Engineering student with expertise in building robust data pipelines and modern web applications. I combine analytical thinking with software development skills to create data-driven solutions that deliver real value.
 
-- 🔭 Currently working on **AI-powered SaaS platforms**, **memory augmentation tools**, and **healthcare digitization**
-- 🌱 Learning advanced **ETL/ELT architecture** and **scalable ML deployment**
-- 💡 Passionate about transforming complex data into actionable insights
+- 🔭 Currently working on **AI-powered SaaS platforms**, **conversational AI**, and **healthcare digitization**
+- 🌱 Learning advanced **vector database architectures** and **LLM application development**
+- 💡 Passionate about transforming complex data into actionable insights through AI
 - 🚀 Always seeking opportunities to solve challenging problems with technology
 
 ## 🛠️ Technical Skills
@@ -26,6 +26,8 @@ Data Science & Knowledge Engineering student with expertise in building robust d
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ETL/ELT](https://img.shields.io/badge/-ETL%2FELT-FF6B6B?style=flat-square)
 ![LangChain](https://img.shields.io/badge/-LangChain-32CD32?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-9370DB?style=flat-square)
+![Vector DB](https://img.shields.io/badge/-Vector%20DB-4B0082?style=flat-square)
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-4CAF50?style=flat-square)
 ![Data Processing](https://img.shields.io/badge/-Data%20Processing-5C6BC0?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF8C00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -37,6 +39,7 @@ Data Science & Knowledge Engineering student with expertise in building robust d
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/-Django%20REST-FF1709?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -46,9 +49,9 @@ Data Science & Knowledge Engineering student with expertise in building robust d
 ## 🚀 Featured Projects
 
 ### [MemorAI](https://memorai.tech/)
-An intelligent memory augmentation platform leveraging AI to enhance knowledge retention and retrieval.
-- **Tech Stack:** Django (API), Next.js, LangChain, AWS EC2, Git CI/CD
-- **Features:** AI-powered memory assistance, personalized learning, knowledge management
+A WhatsApp-based AI chatbot that helps users store and retrieve personal information through natural language interactions.
+- **Tech Stack:** Django (API), Next.js, LangChain, LangGraph, Twilio, Vector Database, AWS EC2, Git CI/CD
+- **Features:** Memory storage via conversational prompts, semantic search, WhatsApp integration, personalized knowledge management
 
 ### [SmartLine](https://landing-page-orpin-two-87.vercel.app/)
 An AI-powered SaaS platform revolutionizing call center operations with intelligent automation and real-time analytics.
