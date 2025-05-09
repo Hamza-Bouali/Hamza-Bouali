@@ -108,7 +108,7 @@ Knowledge Engineering and Data Science student at ESI (École des Sciences de l'
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart & Flutter](https://img.shields.io/badge/-Dart%20%26%20Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### DevOps & Cloud
+### ML-Ops & Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-4285F4?style=flat-square&logo=github-actions&logoColor=white)
@@ -121,13 +121,16 @@ Knowledge Engineering and Data Science student at ESI (École des Sciences de l'
 
 ## 👥 Leadership & Activities
 
-- **Co-Leader of Competitive Programming Cell** at CODE-ESI, Rabat *(Sep 2024 - Jun 2025)*  
+- **Co-Head of Competitive Programming Cell** at CODE-ESI, Rabat *(Sep 2024 - Jun 2025)*  
   Sharing expertise in solving complex problems with the next generation of engineers
 
 - **Treasurer** at JCMP-ESI, Rabat *(Sep 2024 - Dec 2024)*  
   Managing finances and budgeting for student organization
 
 - **Sponsorship Committee Member** for Moroccan Days of Future Data Scientists, Rabat *(May 2024 - Jun 2024)*  
+  Securing partnerships and funding for data science events
+
+- **Event Committee Member** for Moroccan Days of Future Data Scientists, Rabat *(April 2025)*  
   Securing partnerships and funding for data science events
 
 ## 🚀 Featured Projects
