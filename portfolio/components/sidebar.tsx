@@ -49,7 +49,7 @@ export function Sidebar() {
 
         <div className="text-center mb-4">
           <h1 className="text-2xl font-bold">Hamza Bouali</h1>
-          <p className="text-primary midnight:text-amber-500 font-medium">Data Engineer & MLOps Specialist</p>
+          <p className="text-primary midnight:text-amber-500 font-medium">Data Engineering Student & MLOps enthousiat </p>
           <div className="flex flex-wrap justify-center gap-2 mt-2">
             <Badge
               variant="outline"
