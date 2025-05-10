@@ -44,7 +44,7 @@ export function Sidebar() {
     <aside className="w-full md:w-80 lg:w-96 bg-[#1a2035] dark:bg-[#1a2035] light:bg-card midnight:bg-[#0c1222] text-white p-6 border-r border-[#2a3352] dark:border-[#2a3352] light:border-border midnight:border-[#1a2035]">
       <div className="flex flex-col items-center">
         <div className="w-40 h-40 relative mb-4">
-          <Image src="/images/hamza.png" alt="Hamza Bouali" fill className="object-cover rounded-2xl" priority />
+          <Image src="/hamza.jpg" alt="Hamza Bouali" fill className="object-cover rounded-2xl" priority />
         </div>
 
         <div className="text-center mb-4">
@@ -88,7 +88,7 @@ export function Sidebar() {
         </div>
 
         <div className="mb-4">
-          <ThemeToggle />
+          
         </div>
       </div>
 

@@ -47,7 +47,7 @@ export function MainContent() {
               </li>
             ))}
           </ul>
-          <ThemeToggle />
+            
         </div>
       </nav>
 
