@@ -22,7 +22,7 @@ export function MainContent() {
     { id: "portfolio", label: "Portfolio" },
     { id: "skills", label: "Skills" },
     { id: "testimonials", label: "Testimonials" },
-    { id: "blog", label: "Blog" },
+    /*{ id: "blog", label: "Blog" },*/
     { id: "contact", label: "Contact" },
   ]
 
@@ -57,7 +57,7 @@ export function MainContent() {
         {activeSection === "portfolio" && <PortfolioSection />}
         {activeSection === "skills" && <SkillsSection />}
         {activeSection === "testimonials" && <TestimonialsSection />}
-        {activeSection === "blog" && <BlogSection />}
+        {/*activeSection === "blog" && <BlogSection />*/}
         {activeSection === "contact" && <ContactSection />}
       </div>
     </div>

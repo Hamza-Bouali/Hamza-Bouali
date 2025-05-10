@@ -24,19 +24,44 @@ export function ContactSection() {
     setFormData((prev) => ({ ...prev, [name]: value }))
   }
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setIsSubmitting(true)
 
-    // Simulate form submission
-    setTimeout(() => {
+    try {
+      const response = await fetch("https://submit-form.com/Ww9Y2Y154", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json", // Add Accept header
+        },
+        body: JSON.stringify(formData),
+      })
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        console.error("Form submission error:", errorData);
+        throw new Error(`Form submission failed: ${response.status}`);
+      }
+
+      const data = await response.json()
+      console.log("Success:", data)
       toast({
         title: "Message sent!",
         description: "Thank you for your message. I'll get back to you soon.",
       })
       setFormData({ fullname: "", email: "", message: "" })
+    } catch (error: any) {
+      console.error("Error:", error)
+      toast({
+        title: "Error",
+        description:
+          error.message || "There was an error sending your message. Please try again later.",
+        variant: "destructive",
+      })
+    } finally {
       setIsSubmitting(false)
-    }, 1500)
+    }
   }
 
   return (
