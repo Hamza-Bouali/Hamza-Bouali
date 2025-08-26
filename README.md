@@ -3,7 +3,6 @@
 
 <div align="center">
 
-![Entrepreneurship](https://img.shields.io/badge/-Entrepreneurship-E67E22?style=flat-square)
 ![Technology Trends](https://img.shields.io/badge/-Technology%20Trends-3498DB?style=flat-square)
 ![Sports](https://img.shields.io/badge/-Sports-2ECC71?style=flat-square)
 ![Content Creation](https://img.shields.io/badge/-Content%20Creation-9B59B6?style=flat-square)
@@ -54,7 +53,6 @@
 <div align="center">
   
   ![Data Engineer](https://img.shields.io/badge/-Data%20Engineer-3498DB?style=for-the-badge)
-  ![Full-Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-27AE60?style=for-the-badge)
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-9B59B6?style=for-the-badge)
   ![AI Developer](https://img.shields.io/badge/-AI%20Developer-FF6B6B?style=for-the-badge)
 
@@ -72,7 +70,7 @@ Knowledge Engineering and Data Science student at ESI (École des Sciences de l'
 
 ## 🎓 Education
 
-- **Data Science & Knowledge Engineering** - ESI (École des Sciences de l'Information), Kenitra, Morocco *(2023 - Present)*
+- **Data Science & Knowledge Engineering** - ESI (École des Sciences de l'Information), Kenitra, Morocco *(2023 - 2026)*
 - **Preparatory Classes (MPSI-MP)** - CPGE Mohamed 6, Kenitra, Morocco *(2021 - 2023)*
   - Specializations: Mathematics, Physics, Computer Science, and Industrial Science
 - **Baccalaureate in Mathematical Sciences B** - Groupe Scolaire Almouwatna, Rabat, Morocco *(2021)*
