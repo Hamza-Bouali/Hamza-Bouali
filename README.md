@@ -162,7 +162,6 @@ Comprehensive healthcare digitization platform connecting medical professionals 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://hamza-bouali.github.io/Hamza-Bouali/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-bouali-4b11861a1/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzabouali322@gmail.com)
-[![Phone](https://img.shields.io/badge/-+212%20648%20572%20537-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212648572537)
 
 </div>
 
