@@ -15,6 +15,7 @@ export interface ProjectDetails {
   link: string
   github?: string
   technologies: string[]
+  tags?: string[]
   featured?: boolean
   date?: string
   goals?: string[]
@@ -40,6 +41,18 @@ export function ProjectModal({ project, open, onOpenChange }: ProjectModalProps)
             <Badge className="capitalize midnight:bg-amber-500/20 midnight:text-amber-500">
               {project.category.split("-").join(" ")}
             </Badge>
+            {project.tags && project.tags.length > 0 && (
+              <div className="flex flex-wrap gap-1">
+                {project.tags.slice(0, 4).map((tag) => (
+                  <Badge key={tag} variant="outline" className="capitalize">
+                    {tag.split("-").join(" ")}
+                  </Badge>
+                ))}
+                {project.tags.length > 4 && (
+                  <Badge variant="outline" className="capitalize">+{project.tags.length - 4}</Badge>
+                )}
+              </div>
+            )}
             {project.date && (
               <div className="flex items-center text-xs text-muted-foreground">
                 <Calendar className="h-3 w-3 mr-1" />

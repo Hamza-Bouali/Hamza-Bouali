@@ -80,7 +80,7 @@ export function Sidebar() {
             className="flex-1 midnight:bg-amber-500 midnight:text-midnight-foreground midnight:hover:bg-amber-600"
             asChild
           >
-            <Link href="/Cv_Hamza_Bouali.pdf" target="_blank">
+            <Link href="/resume.pdf" target="_blank">
               <Download className="h-4 w-4 mr-2" /> Télécharger CV
             </Link>
           </Button>
@@ -138,7 +138,7 @@ export function Sidebar() {
             </div>
             <div>
               <p className="text-sm font-medium">Âge</p>
-              <time className="text-sm text-muted-foreground">21 ans</time>
+              <time className="text-sm text-muted-foreground">22 ans</time>
             </div>
           </li>
 

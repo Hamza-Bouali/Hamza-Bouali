@@ -9,7 +9,7 @@ export function TestimonialsSection() {
       content:
         "Hamza is an exceptional data engineer with a keen eye for detail. His ability to transform complex data into actionable insights is remarkable. Working with him on our social media analytics project was a pleasure.",
       author: {
-        name: "Sarah Johnson",
+        name: "Randa Zarnoufi",
         role: "CTO, DataViz Solutions",
         avatar: "/placeholder.svg?height=40&width=40",
         initials: "SJ",

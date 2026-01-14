@@ -27,10 +27,11 @@ export default function RootLayout({
       <body className={`${poppins.variable} font-sans antialiased`}>
         <ThemeProvider
           attribute="class"
-          defaultTheme="dark"
-          enableSystem
+          defaultTheme="midnight"
+          forcedTheme="midnight"
+          enableSystem={false}
           disableTransitionOnChange
-          themes={["light", "dark", "midnight"]}
+          themes={["midnight"]}
         >
           {children}
         </ThemeProvider>
