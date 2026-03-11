@@ -30,6 +30,10 @@ Data Engineer with hands-on expertise in designing and implementing scalable ETL
 **Baccalaureate in Mathematical Sciences** — Fès, Morocco *(2021)*
 
 ## 💼 Professional Experience
+**Data Engineering Intern** at Veolia, Rabat, Morocco *(Feb 2026- present )*
+- manage cloud data infrastructure in Data Fabric
+- build agnostic data infrastructure for data products
+- optimize the data pipelines in the cloud
 
 **Data Analyst Intern** at Decathlon, Casablanca, Morocco *(June - August 2025)*
 - Built ETL pipelines for multi-source internal data extraction and transformation
