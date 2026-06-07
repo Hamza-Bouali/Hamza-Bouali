@@ -3,7 +3,7 @@
 <div align="center">
   
   ![Data Engineer](https://img.shields.io/badge/-Data%20Engineer-3498DB?style=for-the-badge)
-  ![ETL Specialist](https://img.shields.io/badge/-ETL%20Specialist-FF6B6B?style=for-the-badge)
+  ![ETL Specialist](https://img.shields.io/badge/-ELT%20Specialist-FF6B6B?style=for-the-badge)
   ![Cloud Data Solutions](https://img.shields.io/badge/-Cloud%20Data%20Solutions-1F4B99?style=for-the-badge)
 
 </div>
