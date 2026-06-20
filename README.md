@@ -24,9 +24,9 @@ Data Engineering passionate about building pipelines and data analysis, with han
 
 | Period | Degree | Institution |
 |---|---|---|
-| 2023 – Present | **Data Engineering Degree (Diplôme d'Ingénieur)** | École des Sciences de l'Information (ESI), Rabat |
-| 2021 – 2023 | **Preparatory Classes — Mathematics & Physics** | CPGE Omar Ibn Al Khatab, Meknès |
-| 2021 | **Baccalaureate in Mathematical Sciences (Option B)** | Lycée, Fès |
+| 2023 – 2026 | **Data Engineering Degree (Diplôme d'Ingénieur)** | École des Sciences de l'Information (ESI), Rabat |
+| 2021 – 2023 | **CPGE — Mathematics & Physics** | CPGE Mohammed VI , Kenitra |
+| 2021 | **Baccalaureate in Mathematical Sciences (Option B)** | High school , Rabat |
 
 > ESI curriculum: Artificial Intelligence · Machine Learning · Deep Learning · Big Data · Cloud Computing · DevOps · Software Engineering
 
@@ -34,7 +34,7 @@ Data Engineering passionate about building pipelines and data analysis, with han
 
 ## 💼 Professional Experience
 
-### 🔵 Data Engineer Intern — *Veolia*, Rabat *(Feb 2026 – Present)*
+### 🔵 Data Engineer Intern — *Veolia*, Rabat *(Feb 2026 – Aug 2026)*
 - Built a data extraction pipeline from on-premises Oracle databases via on-premises data gateway
 - Participating in the design and rollout of a new Data Fabric architecture
 
@@ -56,6 +56,14 @@ Data Engineering passionate about building pipelines and data analysis, with han
 ---
 
 ## 🚀 Projects
+
+### YG pipeline *(2025)*
+> end-to-end analitycal system for taxis dynamic in NYC
+
+- **stack**: DataBrick warehouse , dbt , airflow , spark , superset , podman , MLFLOW , postgres
+
+---
+
 
 ### [MemorAI](https://memorai.tech) — Multi-Agent & Multi-Modal Data Management Chatbot *(Jan 2025 – Present)*
 > Intelligent chatbot integrated with WhatsApp, capable of querying and managing multimedia data (text, image, audio, video)
