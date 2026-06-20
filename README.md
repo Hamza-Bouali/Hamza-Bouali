@@ -2,7 +2,7 @@
 
 # Hamza Bouali
 
-**Data Engineer** · Rabat, Maroc
+**Data Engineer** · Rabat, Morocco
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hamza--bouali.me-000000?style=flat-square&logo=react&logoColor=white)](https://hamza-bouali.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Bouali-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-bouali-4b11861a1/)
@@ -14,84 +14,84 @@
 
 ---
 
-## Profil
+## About Me
 
-Étudiant en ingénierie des données passionné par la construction de pipelines et l'analyse, avec des expériences concrètes en ETL/ELT, visualisation et NLP. Actuellement stagiaire Data Engineer chez Veolia (Rabat), je cherche à apporter rigueur, automatisation et transformation de données en tableaux de bord exploitables.
+Data Engineering student passionate about building pipelines and data analysis, with hands-on experience in ETL/ELT, data warehousing, visualization, and NLP. Currently interning as a Data Engineer at Veolia (Rabat), I focus on bringing rigor, automation, and data transformation into actionable dashboards and reliable infrastructure.
 
 ---
 
-## 🎓 Formation
+## 🎓 Education
 
-| Période | Diplôme | Établissement |
+| Period | Degree | Institution |
 |---|---|---|
-| 2023 – Présent | **Diplôme d'Ingénieur des données** | École des Sciences de l'Information (ESI), Rabat |
-| 2021 – 2023 | **Classes Préparatoires — Mathématiques & Physique** | CPGE Omar Ibn Al Khatab, Meknès |
-| 2021 | **Baccalauréat en Sciences Mathématiques (Option B)** | Lycée, Fès |
+| 2023 – Present | **Data Engineering Degree (Diplôme d'Ingénieur)** | École des Sciences de l'Information (ESI), Rabat |
+| 2021 – 2023 | **Preparatory Classes — Mathematics & Physics** | CPGE Omar Ibn Al Khatab, Meknès |
+| 2021 | **Baccalaureate in Mathematical Sciences (Option B)** | Lycée, Fès |
 
-> Cursus ESI : Intelligence Artificielle · Machine Learning · Deep Learning · Big Data · Cloud Computing · DevOps · Génie Logiciel
-
----
-
-## 💼 Expérience Professionnelle
-
-### 🔵 Stagiaire Data Engineer — *Veolia*, Rabat *(Fév 2026 – Présent)*
-- Création d'une pipeline d'extraction des données depuis des bases Oracle on-premises via on-premises data gateway
-- Participation à la mise en place d'une nouvelle architecture Data Fabric
-
-### 🟠 Stagiaire Data Analyste — *Decathlon*, Casablanca *(Juin – Août 2025)*
-- Création d'une pipeline d'extraction multi-sources pour les données internes de l'entreprise
-- Conception d'un dashboard dynamique pour l'analyse de la performance des magasins (vue stratégique)
-- Contribution à la décision d'ouverture d'un nouveau magasin à Salé (2025)
-
-### 🟣 Stagiaire Administration de Base de Données — *OBG Incub*, Rabat *(Jan – Mai 2025)*
-- Développement frontend avec Next.js (composants UI responsives, optimisation des performances)
-- Intégration d'un chatbot IA avec LangChain, Qdrant et l'API OpenAI + moteur de recommandation collaboratif
-- Conception de la logique backend pour pipelines RAG et déploiement sur AWS ECS avec CI/CD GitHub Actions
-
-### 🟢 Stagiaire Data Engineer — *AiLand*, Rabat *(Juil 2024)*
-- Nettoyage, transformation et analyse de données issues des réseaux sociaux
-- Fine-tuning de modèles NLP pour le social listening localisé au Maroc
-- Optimisation des pipelines de traitement : **+40% d'efficacité**
+> ESI curriculum: Artificial Intelligence · Machine Learning · Deep Learning · Big Data · Cloud Computing · DevOps · Software Engineering
 
 ---
 
-## 🚀 Projets
+## 💼 Professional Experience
 
-### [MemorAI](https://memorai.tech) — Chatbot Multi-Agent & Multi-Modal *(Jan 2025 – Présent)*
-> Système de gestion de données intelligent intégré à WhatsApp
+### 🔵 Data Engineer Intern — *Veolia*, Rabat *(Feb 2026 – Present)*
+- Built a data extraction pipeline from on-premises Oracle databases via on-premises data gateway
+- Participating in the design and rollout of a new Data Fabric architecture
 
-- Architecture multi-agents avec **LangChain / LangGraph** (orchestration, persistance contextuelle)
-- Système RAG basé sur **Qdrant** pour la recherche sémantique et l'indexation vectorielle
-- Pipelines de données scalables sur **AWS (S3, DynamoDB, Lambda)** — ingestion, stockage, transformation, monitoring
-- Prise en charge multi-modale : texte, image, audio, vidéo
+### 🟠 Data Analyst Intern — *Decathlon*, Casablanca *(Jun – Aug 2025)*
+- Built ETL pipelines for multi-source internal data extraction and transformation
+- Designed and deployed dynamic dashboards for store performance analysis and strategic insights
+- Contributed to the decision-making process for a new store opening in Salé (2025)
 
-**Stack :** Django REST · AWS · Qdrant · LangChain · OpenAI API · GitHub Actions
+### 🟣 Database Administration & Backend Developer — *OBG Incub*, Rabat *(Jan – May 2025)*
+- Developed and improved the company frontend using Next.js with responsive UI components and performance optimization
+- Integrated an AI chatbot using LangChain, Qdrant, and the OpenAI API, plus a collaborative filtering recommendation engine
+- Designed backend logic for RAG pipelines and deployed services on AWS ECS with CI/CD via GitHub Actions
+
+### 🟢 Data Engineer Intern — *AiLand*, Rabat *(Jul 2024)*
+- Cleaned, transformed, and analyzed social media data to produce actionable insights
+- Contributed to fine-tuning NLP models for localized social listening in Morocco
+- Optimized data pipeline models, improving processing efficiency by **40%**
+
+---
+
+## 🚀 Projects
+
+### [MemorAI](https://memorai.tech) — Multi-Agent & Multi-Modal Data Management Chatbot *(Jan 2025 – Present)*
+> Intelligent chatbot integrated with WhatsApp, capable of querying and managing multimedia data (text, image, audio, video)
+
+- Multi-agent architecture with **LangChain / LangGraph** for task distribution, orchestration, and contextual persistence
+- RAG system powered by **Qdrant** for semantic search, vector indexing, and conversational grounding
+- Scalable and secure data pipelines on **AWS (S3, DynamoDB, Lambda)** — ingestion, storage, transformation, monitoring
+- Multi-turn conversational context with OpenAI APIs for NLU and data synthesis
+
+**Stack:** Django REST · AWS · Qdrant · LangChain · OpenAI API · GitHub Actions
 
 ---
 
 ### Banking BI System & Data Warehouse *(2024)*
-> Plateforme décisionnelle pour opérations bancaires
+> Enterprise data warehouse and analytics platform for banking operations
 
-- Data Warehouse en **star schema** sur SQL Server
-- Pipelines ETL avec **SSIS** pour ingestion et transformation des données bancaires
-- Dashboards interactifs **Power BI** avec KPIs métier et insights prédictifs
-- Optimisation des connexions DirectQuery / Import pour l'analytique temps réel
+- Designed and implemented a **star schema** Data Warehouse on SQL Server
+- Built ETL processes with **SSIS** for ingestion and transformation of complex banking data
+- Created interactive **Power BI** dashboards with business KPIs and predictive insights
+- Optimized DirectQuery / Import connections between Power BI and SQL Server for real-time analytics
 
-**Stack :** SQL Server · SSIS · Power BI · Python
-
----
-
-### ML & Deep Learning From Scratch *(2024)*
-> Implémentation mathématique complète d'algorithmes ML/DL
-
-- **6 modèles ML** : Linear Regression, Logistic Regression, KNN, Decision Trees, Random Forest, SVM
-- **4 architectures DL** : MLP, CNN, RNN, Autoencoder
-- Backpropagation et algorithmes d'optimisation implémentés from scratch
-- Évaluation sur datasets réels avec métriques de performance complètes
+**Stack:** SQL Server · SSIS · Power BI · Python
 
 ---
 
-## 🛠️ Compétences Techniques
+### ML & Deep Learning Models From Scratch *(2024)*
+> Full mathematical implementation of ML and DL algorithms
+
+- **6 ML models**: Linear Regression, Logistic Regression, KNN, Decision Trees, Random Forest, SVM
+- **4 DL architectures**: MLP, CNN, RNN, Autoencoder
+- Complete backpropagation and optimization algorithms implemented from scratch
+- Evaluated on real datasets with comprehensive performance metrics
+
+---
+
+## 🛠️ Technical Skills
 
 ### Data Engineering & Pipelines
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -100,10 +100,10 @@
 ![PySpark](https://img.shields.io/badge/Spark%20%2F%20PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Kestra](https://img.shields.io/badge/Kestra-1A1A1A?style=flat-square)
 ![ETL/ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-FF6B6B?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL%20Avancé-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop%20%2F%20Hive-FF6200?style=flat-square&logo=apachehadoop&logoColor=white)
 
-### Bases de Données
+### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
@@ -119,7 +119,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-4285F4?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%20%2F%20Bash-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### ML & IA
+### ML & AI
 ![LLM](https://img.shields.io/badge/LLMs%20(LLaMA%2C%20GPT)-412991?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -127,13 +127,13 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E4?style=flat-square)
 
-### Visualisation & BI
+### Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square)
 
-### Backend & Développement
+### Backend & Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React%20%2F%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -143,7 +143,7 @@
 
 ## 📜 Certifications
 
-| Domaine | Certification |
+| Domain | Certification |
 |---|---|
 | Data Engineering | Data Engineer Associate — *DataCamp* |
 | Data Science | Data Science Core Designer Certificate |
@@ -153,37 +153,37 @@
 
 ---
 
-## 🏆 Distinctions
+## 🏆 Awards & Recognition
 
-| Classement | Compétition |
+| Ranking | Competition |
 |---|---|
-| 🥈 2ème Place | Hackathon MDFDS — Code ESI Club |
-| 🥉 3ème Place | EAIC Data Competition |
-| 🎯 Top 25 / 400 | Think AI — 2ème Édition |
-| 📍 20ème / Top 50 Maroc | MCPC — Moroccan Competitive Programming Championship |
+| 🥈 2nd Place | Hackathon MDFDS — Code ESI Club |
+| 🥉 3rd Place | EAIC Data Competition |
+| 🎯 Top 25 / 400 | Think AI — 2nd Edition |
+| 📍 20th / Top 50 Morocco | MCPC — Moroccan Competitive Programming Championship |
 
 ---
 
-## 👥 Leadership & Bénévolat
+## 👥 Leadership & Volunteering
 
-- **Co-responsable de la cellule Programmation Compétitive** — CODE-ESI *(Sep 2024 – Juin 2025)*  
-  Encadrement des ingénieurs en résolution de problèmes algorithmiques
+- **Co-Head, Competitive Programming Cell** — CODE-ESI *(Sep 2024 – Jun 2025)*  
+  Mentoring engineers in algorithmic problem-solving
 
-- **Trésorier** — JCMP-ESI *(Sep – Déc 2024)*  
-  Gestion des finances et du budget associatif
+- **Treasurer** — JCMP-ESI *(Sep – Dec 2024)*  
+  Managed club finances and budgeting
 
-- **Membre du comité Sponsoring & Événements** — Moroccan Days of Future Data Scientists *(Mai 2024 – Présent)*  
-  Coordination des partenariats pour les événements data science nationaux
+- **Sponsorship & Events Committee Member** — Moroccan Days of Future Data Scientists *(May 2024 – Present)*  
+  Coordinated partnerships for national data science events
 
 ---
 
-## 🌐 Langues
+## 🌐 Languages
 
-| Langue | Niveau |
+| Language | Level |
 |---|---|
-| Arabe | Langue maternelle |
-| Français | C1 — Avancé |
-| Anglais | B2 — Professionnel |
+| Arabic | Native |
+| French | C1 — Advanced |
+| English | B2 — Professional |
 
 ---
 
@@ -197,6 +197,6 @@
 ---
 
 <div align="center">
-  <strong>Ouvert aux opportunités en Data Engineering, ETL/ELT, Cloud Data Solutions et MLOps</strong><br/>
+  <strong>Open to opportunities in Data Engineering · ETL/ELT · Cloud Data Solutions · MLOps</strong><br/>
   <a href="mailto:hamzabouali322@gmail.com">hamzabouali322@gmail.com</a> · +212 648 572 537
 </div>
