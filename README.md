@@ -1,220 +1,202 @@
+<div align="center">
+
 # Hamza Bouali
 
-<div align="center">
-  
-  ![Data Engineer](https://img.shields.io/badge/-Data%20Engineer-3498DB?style=for-the-badge)
-  ![ETL Specialist](https://img.shields.io/badge/-ELT%20Specialist-FF6B6B?style=for-the-badge)
-  ![Cloud Data Solutions](https://img.shields.io/badge/-Cloud%20Data%20Solutions-1F4B99?style=for-the-badge)
+**Data Engineer** · Rabat, Maroc
 
-</div>
-
-## 👨‍💻 About Me
-
-Data Engineer with hands-on expertise in designing and implementing scalable ETL/ELT pipelines, data warehousing, and cloud infrastructure. I specialize in transforming raw data into reliable, well-architected systems that power data-driven decision making.
-
-- 🔭 Currently working on **building robust data pipelines**, **data warehouse optimization**, and **cloud-native data solutions**
-- 🌱 Experienced with **Apache Airflow**, **Apache Kafka**, **Spark**, and modern **data orchestration tools**
-- 💡 Passionate about data quality, performance optimization, and scalable infrastructure design
-- 🚀 Proven track record building ETL solutions that handle complex multi-source data ingestion and transformation
-- 🎯 Seeking **Data Engineering internship (July 2025)** to expand expertise in large-scale data systems
-
-## 🎓 Education
-
-**Data Science & Knowledge Engineering** — ESI (École des Sciences de l'Information), Kenitra, Morocco *(2023 - 2026)*
-- Curriculum: Big Data, Cloud Computing, Data Engineering, DevOps, Software Engineering, Machine Learning
-- Applied research in data systems and national hackathons
-
-**Preparatory Classes (CPGE)** — OMAR IBN AL KHATAB, Meknès, Morocco *(2021 - 2023)*
-- Mathematics, Physics, and logical reasoning with focus on engineering preparation
-
-**Baccalaureate in Mathematical Sciences** — Fès, Morocco *(2021)*
-
-## 💼 Professional Experience
-**Data Engineering Intern** at Veolia, Rabat, Morocco *(Feb 2026- present )*
-- manage cloud data infrastructure in Data Fabric
-- build agnostic data infrastructure for data products
-- optimize the data pipelines in the cloud
-
-**Data Analyst Intern** at Decathlon, Casablanca, Morocco *(June - August 2025)*
-- Built ETL pipelines for multi-source internal data extraction and transformation
-- Designed and deployed dynamic dashboards for store performance analysis and strategic insights
-- Contributed to decision-making for new store opening in Salé (2025)
-
-**Database Administration & Backend Developer** at OBG Incub, Rabat, Morocco *(January - May 2025)*
-- Developed scalable backend services and data pipelines using Django and FastAPI
-- Designed and optimized database schemas for improved query performance
-- Implemented RAG pipeline backend logic with vector database integration (Qdrant)
-- Deployed containerized services on AWS ECS with CI/CD automation using GitHub Actions
-- Collaborated with DevOps team on infrastructure and monitoring solutions
-
-**Data Engineer Intern** at AILAND, Rabat, Morocco *(July 2024)*
-- Cleaned, transformed, and analyzed social media data at scale
-- Implemented NLP model fine-tuning for localized data processing
-- Optimized data pipeline models improving processing efficiency by 40%
-
-## 🛠️ Technical Skills
-
-### Data Engineering & Pipeline Development
-![Python](https://img.shields.io/badge/-Python%20Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark%2FSpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/-ETL%2FELT%20Design-FF6B6B?style=flat-square)
-![Kestra](https://img.shields.io/badge/-Kestra-1A1A1A?style=flat-square)
-![SQL Advanced](https://img.shields.io/badge/-SQL%20Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### Data Warehousing & Analytics
-![Data Warehouse Design](https://img.shields.io/badge/-DW%20Design%20(Star%20Schema)-FF6B6B?style=flat-square)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![SSIS](https://img.shields.io/badge/-SSIS-CC2927?style=flat-square)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-### Databases & Data Storage
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Redshift](https://img.shields.io/badge/-AWS%20Redshift-527FFF?style=flat-square)
-![Azure Data Warehouse](https://img.shields.io/badge/-Azure%20DW-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS%20(EC2%2C%20S3%2C%20Lambda%2C%20RDS)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS ECS](https://img.shields.io/badge/-AWS%20ECS-FF9900?style=flat-square)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD%20(GitHub%20Actions)-4285F4?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash%20Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### Data Quality & Monitoring
-![Data Quality Assurance](https://img.shields.io/badge/-Data%20Quality-4B0082?style=flat-square)
-![Monitoring & Logging](https://img.shields.io/badge/-Monitoring%20%26%20Logging-FF6B6B?style=flat-square)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E4?style=flat-square)
-![Git](https://img.shields.io/badge/-Git%20Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Backend Development
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-008000?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-## 🚀 Featured Projects
-
-### Banking BI System & Data Warehouse
-Enterprise data warehouse and analytics platform for banking operations
-- **Tech Stack:** SQL Server, SSIS, Power BI, Python
-- **Key Achievements:** Designed and implemented star schema data warehouse, built ETL processes for complex banking data transformation, created interactive KPI dashboards, optimized DirectQuery connections for real-time analytics
-- **Impact:** Enabled business intelligence and predictive insights for strategic decision-making
-
-### MemorAI
-Intelligent data management system with multi-modal support
-- **Tech Stack:** Django REST, AWS (S3, DynamoDB, Lambda, EC2), Qdrant Vector Database, GitHub Actions
-- **Data Engineering Focus:** Designed scalable data pipelines for ingestion and storage, implemented semantic search with vector indexing, built robust data persistence layer on cloud infrastructure
-- **Features:** Multi-turn context persistence, semantic search, RAG-based retrieval
-
-### [SmartLine](https://landing-page-orpin-two-87.vercel.app/)
-Call center operations platform with data processing capabilities
-- **Tech Stack:** Python, Django, data pipeline architecture
-- **Features:** Real-time data processing, analytics infrastructure
-
-### [YAAH-Medical](https://yaah-v2-dep5xjlor-hamzas-projects-aeb0387c.vercel.app/login)
-Healthcare platform with data management systems
-- **Tech Stack:** Django, PostgreSQL, REST APIs
-- **Data Features:** Patient records management, secure data handling
-
-### ML & Deep Learning Models From Scratch
-Mathematical implementation of machine learning algorithms
-- Built 6 ML models: Linear Regression, Logistic Regression, KNN, Decision Trees, Random Forest, SVM
-- Implemented 4 Deep Learning architectures: MLP, CNN, RNN, Autoencoder
-- Complete backpropagation and optimization algorithms
-
-## 📜 Professional Certifications
-
-<div align="center">
-
-[![Data Engineer Associate](https://img.shields.io/badge/-Data%20Engineer%20Associate-05930C?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/)
-[![Python Data Associate](https://img.shields.io/badge/-Python%20Data%20Associate-05930C?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/)
-[![SQL Associate](https://img.shields.io/badge/-SQL%20Associate-4479A1?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/)
-[![Supervised Machine Learning](https://img.shields.io/badge/-Supervised%20Machine%20Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/)
-
-</div>
-
-## 🏆 Awards & Recognition
-
-- **2nd Place** — Hackathon MDFDS (Code ESI Club)
-- **3rd Place** — EAIC Data Competition
-- **Top 25 out of 400** — Think AI (2nd Edition)
-- **20th Place** — MCPC - Moroccan Competitive Programming Championship
-
-## 👥 Leadership & Volunteering
-
-**Co-Head of Competitive Programming Cell** at CODE-ESI, Rabat *(September 2024 - June 2025)*
-- Mentoring engineers in algorithmic problem-solving
-
-**Treasurer** at JCMP-ESI, Rabat *(September - December 2024)*
-- Managed finances and budgeting
-
-**Sponsorship & Event Committee Member** for Moroccan Days of Future Data Scientists *(May 2024 - Present)*
-- Coordinated partnerships for data science events
-
-## 🌐 Languages
-
-<div align="center">
-
-![English](https://img.shields.io/badge/-English%20(B2%20Professional)-1F4B99?style=for-the-badge)
-![French](https://img.shields.io/badge/-French%20(C1%20Advanced)-318CE7?style=for-the-badge)
-![Arabic](https://img.shields.io/badge/-Arabic%20(Native)-128807?style=for-the-badge)
-
-</div>
-
-## 💡 Core Competencies
-
-**Pipeline Architecture:** ETL/ELT design and optimization, data orchestration, workflow automation, scheduling and dependency management
-
-**Data Warehousing:** Schema design (star/snowflake), dimensional modeling, fact/dimension tables, slowly changing dimensions, query optimization
-
-**Data Processing:** Distributed processing with Spark, stream processing with Kafka, batch processing optimization, data transformation logic
-
-**Database Management:** Schema design, query optimization, indexing strategies, performance tuning, backup/recovery
-
-**Cloud Infrastructure:** AWS ecosystem (EC2, S3, RDS, Lambda), containerization with Docker, infrastructure as code, cost optimization
-
-**Data Quality:** Validation frameworks, anomaly detection, data profiling, pipeline monitoring, error handling
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Bouali&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Bouali&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://hamza-bouali.github.io/Hamza-Bouali/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-bouali-4b11861a1/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzabouali322@gmail.com)
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212648572537)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hamza--bouali.me-000000?style=flat-square&logo=react&logoColor=white)](https://hamza-bouali.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Bouali-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-bouali-4b11861a1/)
+[![Email](https://img.shields.io/badge/Email-hamzabouali322%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hamzabouali322@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Hamza--Bouali-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hamza-Bouali)
+[![DataCamp](https://img.shields.io/badge/Certified-DataCamp-05930C?style=flat-square&logo=datacamp&logoColor=white)](https://www.datacamp.com/)
 
 </div>
 
 ---
 
+## Profil
+
+Étudiant en ingénierie des données passionné par la construction de pipelines et l'analyse, avec des expériences concrètes en ETL/ELT, visualisation et NLP. Actuellement stagiaire Data Engineer chez Veolia (Rabat), je cherche à apporter rigueur, automatisation et transformation de données en tableaux de bord exploitables.
+
+---
+
+## 🎓 Formation
+
+| Période | Diplôme | Établissement |
+|---|---|---|
+| 2023 – Présent | **Diplôme d'Ingénieur des données** | École des Sciences de l'Information (ESI), Rabat |
+| 2021 – 2023 | **Classes Préparatoires — Mathématiques & Physique** | CPGE Omar Ibn Al Khatab, Meknès |
+| 2021 | **Baccalauréat en Sciences Mathématiques (Option B)** | Lycée, Fès |
+
+> Cursus ESI : Intelligence Artificielle · Machine Learning · Deep Learning · Big Data · Cloud Computing · DevOps · Génie Logiciel
+
+---
+
+## 💼 Expérience Professionnelle
+
+### 🔵 Stagiaire Data Engineer — *Veolia*, Rabat *(Fév 2026 – Présent)*
+- Création d'une pipeline d'extraction des données depuis des bases Oracle on-premises via on-premises data gateway
+- Participation à la mise en place d'une nouvelle architecture Data Fabric
+
+### 🟠 Stagiaire Data Analyste — *Decathlon*, Casablanca *(Juin – Août 2025)*
+- Création d'une pipeline d'extraction multi-sources pour les données internes de l'entreprise
+- Conception d'un dashboard dynamique pour l'analyse de la performance des magasins (vue stratégique)
+- Contribution à la décision d'ouverture d'un nouveau magasin à Salé (2025)
+
+### 🟣 Stagiaire Administration de Base de Données — *OBG Incub*, Rabat *(Jan – Mai 2025)*
+- Développement frontend avec Next.js (composants UI responsives, optimisation des performances)
+- Intégration d'un chatbot IA avec LangChain, Qdrant et l'API OpenAI + moteur de recommandation collaboratif
+- Conception de la logique backend pour pipelines RAG et déploiement sur AWS ECS avec CI/CD GitHub Actions
+
+### 🟢 Stagiaire Data Engineer — *AiLand*, Rabat *(Juil 2024)*
+- Nettoyage, transformation et analyse de données issues des réseaux sociaux
+- Fine-tuning de modèles NLP pour le social listening localisé au Maroc
+- Optimisation des pipelines de traitement : **+40% d'efficacité**
+
+---
+
+## 🚀 Projets
+
+### [MemorAI](https://memorai.tech) — Chatbot Multi-Agent & Multi-Modal *(Jan 2025 – Présent)*
+> Système de gestion de données intelligent intégré à WhatsApp
+
+- Architecture multi-agents avec **LangChain / LangGraph** (orchestration, persistance contextuelle)
+- Système RAG basé sur **Qdrant** pour la recherche sémantique et l'indexation vectorielle
+- Pipelines de données scalables sur **AWS (S3, DynamoDB, Lambda)** — ingestion, stockage, transformation, monitoring
+- Prise en charge multi-modale : texte, image, audio, vidéo
+
+**Stack :** Django REST · AWS · Qdrant · LangChain · OpenAI API · GitHub Actions
+
+---
+
+### Banking BI System & Data Warehouse *(2024)*
+> Plateforme décisionnelle pour opérations bancaires
+
+- Data Warehouse en **star schema** sur SQL Server
+- Pipelines ETL avec **SSIS** pour ingestion et transformation des données bancaires
+- Dashboards interactifs **Power BI** avec KPIs métier et insights prédictifs
+- Optimisation des connexions DirectQuery / Import pour l'analytique temps réel
+
+**Stack :** SQL Server · SSIS · Power BI · Python
+
+---
+
+### ML & Deep Learning From Scratch *(2024)*
+> Implémentation mathématique complète d'algorithmes ML/DL
+
+- **6 modèles ML** : Linear Regression, Logistic Regression, KNN, Decision Trees, Random Forest, SVM
+- **4 architectures DL** : MLP, CNN, RNN, Autoencoder
+- Backpropagation et algorithmes d'optimisation implémentés from scratch
+- Évaluation sur datasets réels avec métriques de performance complètes
+
+---
+
+## 🛠️ Compétences Techniques
+
+### Data Engineering & Pipelines
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/Spark%20%2F%20PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Kestra](https://img.shields.io/badge/Kestra-1A1A1A?style=flat-square)
+![ETL/ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-FF6B6B?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL%20Avancé-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop%20%2F%20Hive-FF6200?style=flat-square&logo=apachehadoop&logoColor=white)
+
+### Bases de Données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Redshift](https://img.shields.io/badge/AWS%20Redshift-527FFF?style=flat-square)
+![Azure DW](https://img.shields.io/badge/Azure%20Data%20Warehouse-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS%20(EC2%2C%20S3%2C%20Lambda%2C%20RDS%2C%20Glue)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20%2F%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-4285F4?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20Bash-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### ML & IA
+![LLM](https://img.shields.io/badge/LLMs%20(LLaMA%2C%20GPT)-412991?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E4?style=flat-square)
+
+### Visualisation & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square)
+
+### Backend & Développement
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React%20%2F%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Domaine | Certification |
+|---|---|
+| Data Engineering | Data Engineer Associate — *DataCamp* |
+| Data Science | Data Science Core Designer Certificate |
+| Machine Learning | Supervised Machine Learning — *Stanford / Coursera* |
+| NLP | Natural Language Processing Specialization — *DeepLearning.AI* |
+| Python | Python Data Associate — *DataCamp* |
+
+---
+
+## 🏆 Distinctions
+
+| Classement | Compétition |
+|---|---|
+| 🥈 2ème Place | Hackathon MDFDS — Code ESI Club |
+| 🥉 3ème Place | EAIC Data Competition |
+| 🎯 Top 25 / 400 | Think AI — 2ème Édition |
+| 📍 20ème / Top 50 Maroc | MCPC — Moroccan Competitive Programming Championship |
+
+---
+
+## 👥 Leadership & Bénévolat
+
+- **Co-responsable de la cellule Programmation Compétitive** — CODE-ESI *(Sep 2024 – Juin 2025)*  
+  Encadrement des ingénieurs en résolution de problèmes algorithmiques
+
+- **Trésorier** — JCMP-ESI *(Sep – Déc 2024)*  
+  Gestion des finances et du budget associatif
+
+- **Membre du comité Sponsoring & Événements** — Moroccan Days of Future Data Scientists *(Mai 2024 – Présent)*  
+  Coordination des partenariats pour les événements data science nationaux
+
+---
+
+## 🌐 Langues
+
+| Langue | Niveau |
+|---|---|
+| Arabe | Langue maternelle |
+| Français | C1 — Avancé |
+| Anglais | B2 — Professionnel |
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <p><strong>Open to collaboration on Data Engineering, ETL, and Cloud Data Solutions</strong></p>
-  <p>Last Updated: January 2026</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Bouali&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Bouali&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-### 💼 Open to Collaboration and New Opportunities!
-  
-I'm always eager to work on innovative projects, contribute to open-source, and expand my expertise.
-If you're looking for a dedicated professional who combines data engineering with full-stack development skills, let's connect!
 
-#### 🔍 Actively seeking a 2-month Data Engineering/MLOps internship starting July 2025
+---
 
+<div align="center">
+  <strong>Ouvert aux opportunités en Data Engineering, ETL/ELT, Cloud Data Solutions et MLOps</strong><br/>
+  <a href="mailto:hamzabouali322@gmail.com">hamzabouali322@gmail.com</a> · +212 648 572 537
 </div>
