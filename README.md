@@ -16,7 +16,7 @@
 
 ## About Me
 
-Data Engineering student passionate about building pipelines and data analysis, with hands-on experience in ETL/ELT, data warehousing, visualization, and NLP. Currently interning as a Data Engineer at Veolia (Rabat), I focus on bringing rigor, automation, and data transformation into actionable dashboards and reliable infrastructure.
+Data Engineering passionate about building pipelines and data analysis, with hands-on experience in ETL/ELT, data warehousing, visualization, and NLP. Currently interning as a Data Engineer at Veolia (Rabat), I focus on bringing rigor, automation, and data transformation into actionable dashboards and reliable infrastructure.
 
 ---
 
