@@ -34,7 +34,7 @@ Data Engineering passionate about building pipelines and data analysis, with han
 
 ## 💼 Professional Experience
 
-### 🔵 Data Engineer Intern — *Veolia*, Rabat *(Feb 2026 – Aug 2026)*
+### 🔵 Data Engineer  — *Veolia*, Rabat *(Feb 2026 – Aug 2026)*
 - Built a data extraction pipeline from on-premises Oracle databases via on-premises data gateway
 - Participating in the design and rollout of a new Data Fabric architecture
 
