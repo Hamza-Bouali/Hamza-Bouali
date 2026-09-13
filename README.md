@@ -247,5 +247,5 @@ Recent engineering graduate in Knowledge Engineering and Data Science, passionat
 
 <div align="center">
   <strong>Open to opportunities in Data Engineering · Software Engineering · Cloud Data Solutions · AI Integration</strong><br/>
-  <a href="mailto:hamzabouali322@gmail.com">hamzabouali322@gmail.com</a> · +212 648 572 537
+  <a href="mailto:hamzabouali322@gmail.com">hamzabouali322@gmail.com</a> 
 </div>
