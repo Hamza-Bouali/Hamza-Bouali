@@ -3,6 +3,17 @@
 import { useState } from 'react'
 import useSWR from 'swr'
 
+const articles = [
+  {
+    title: 'Idempotency: Why It Matters and How to Achieve It',
+    platform: 'Medium',        // or Substack, dev.to, LinkedIn, etc.
+    date: '2026.08',
+    url: 'https://medium.com/@hamzabouali322/idempotency-why-it-matters-and-how-to-achieve-it-c58a0dc8c690',
+    summary: 'the most forgotten DE concept in the industry, it is the persisting temporary fix for data specialist.',
+  },
+  // add more entries here, newest first
+]
+
 const projects = [
   {
     id: 'fabric',
