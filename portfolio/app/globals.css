@@ -115,6 +115,12 @@ h2 { font-size: clamp(56px, 8vw, 110px); margin-bottom: 0; max-width: 620px; }
 .skills span { display: flex; justify-content: space-between; gap: 15px; }
 .skills b { color: var(--ink); font-weight: 400; text-align: right; }
 .writing-section { border-top: 1px solid var(--line); }
+.article-feed { border-top: 1px solid var(--line); }
+.article-row { display: block; border-bottom: 1px solid var(--line); padding: 27px 0; }
+.article-row:hover h3 { color: var(--orange); }
+.article-meta { display: flex; gap: 16px; font-size: 9px; color: var(--muted); text-transform: uppercase; letter-spacing: .1em; margin-bottom: 10px; }
+.article-row h3 { font: 700 20px var(--sans); letter-spacing: -.04em; margin: 0 0 8px; }
+.article-row p { color: var(--muted); font-size: 12px; line-height: 1.7; margin: 0; max-width: 640px; }
 .empty-feed { border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 27px 0; display: flex; align-items: center; gap: 18px; }
 .empty-feed strong { font-size: 10px; letter-spacing: .1em; }
 .empty-feed p { color: var(--muted); margin: 8px 0 0; font-size: 11px; }

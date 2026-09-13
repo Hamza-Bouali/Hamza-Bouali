@@ -100,11 +100,14 @@ function Architecture({ stages }: { stages: string[] }) {
 const fetcher = (url: string) => fetch(url).then((response) => response.json())
 
 export default function Page() {
-  const { data } = useSWR<{ projects: typeof projects; experience: typeof experience }>('/api/portfolio', fetcher, { revalidateOnFocus: false })
+  const { data } = useSWR<{ projects: typeof projects; experience: typeof experience; articles?: typeof articles }>('/api/portfolio', fetcher, { revalidateOnFocus: false })
   const liveProjects = data?.projects?.length ? data.projects : projects
   const liveExperience = data?.experience?.length ? data.experience : experience
+  const liveArticles = data?.articles?.length ? data.articles : articles
   const [activeProject, setActiveProject] = useState('fabric')
   const selected = liveProjects.find((project) => project.id === activeProject) ?? liveProjects[0]
+ 
+
 
   function inspectProject(id: string) {
     setActiveProject(id)
@@ -165,8 +168,23 @@ export default function Page() {
         <div className="skills"><p className="eyebrow">STACK / WORKING SET</p><div><span>INGESTION <b>Meltano · JDBC · Kafka</b></span><span>TRANSFORM <b>dbt · Spark · Python · SQL</b></span><span>SERVE <b>FastAPI · Power BI · Streamlit</b></span><span>RUN <b>Podman · Docker Compose · Airflow</b></span></div></div>
       </section>
 
-      <section className="section stage writing-section" id="writing"><div className="stage-label"><Node>04</Node><span>writing.feed</span><span className="rule" /></div><div className="section-intro"><div><p className="eyebrow">READING LOG</p><h2>Notes from<br /><em>the pipeline.</em></h2></div><p className="intro-copy">Published articles will appear here as a chronological feed once titles, platforms, dates, and live URLs are available.</p></div><div className="empty-feed"><Node>—</Node><div><strong>NO ENTRIES INDEXED</strong><p>Writing metadata not supplied yet. No placeholder articles or non-working RSS feed included.</p></div></div></section>
-
+      <section className="section stage writing-section" id="writing">
+              <div className="stage-label"><Node>04</Node><span>writing.feed</span><span className="rule" /></div>
+              <div className="section-intro"><div><p className="eyebrow">READING LOG</p><h2>Notes from<br /><em>the pipeline.</em></h2></div><p className="intro-copy">Published articles will appear here as a chronological feed once titles, platforms, dates, and live URLs are available.</p></div>
+              {liveArticles.length ? (
+                <div className="article-feed">
+                  {liveArticles.map((article) => (
+                    <a className="article-row" href={article.url} target="_blank" rel="noreferrer" key={article.title}>
+                      <span className="article-meta"><span>{article.date}</span><span>{article.platform}</span></span>
+                      <h3>{article.title}</h3>
+                      <p>{article.summary}</p>
+                    </a>
+                  ))}
+                </div>
+              ) : (
+                <div className="empty-feed"><Node>—</Node><div><strong>NO ENTRIES INDEXED</strong><p>Writing metadata not supplied yet. No placeholder articles or non-working RSS feed included.</p></div></div>
+              )}
+        </section>
       <section className="section stage contact-section" id="contact"><div className="stage-label"><Node active>05</Node><span>contact.endpoint</span><span className="rule" /></div><div className="contact-grid"><div><p className="eyebrow">NEXT CONNECTION</p><h2>Let&apos;s build<br /><em>the next layer.</em></h2></div><div className="contact-details"><a href="mailto:hamzabouali322@gmail.com">hamzabouali322@gmail.com <span>↗</span></a><a href="tel:+212648572537">+212 648 572 537 <span>↗</span></a><span>Rabat, Morocco</span><div className="social-links"><a href="https://github.com/Hamza-Bouali" target="_blank" rel="noreferrer">GitHub <span>↗</span></a><a href="https://www.linkedin.com/in/hamza-bouali/" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a></div></div></div></section>
 
       <footer><span>HB/DE — DATA ENGINEERING PORTFOLIO</span><span>© 2026 HAMZA BOUALI</span><a href="#top">BACK TO TOP ↑</a></footer>
