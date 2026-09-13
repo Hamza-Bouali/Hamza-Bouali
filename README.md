@@ -90,6 +90,19 @@ Recent engineering graduate in Knowledge Engineering and Data Science, passionat
 
 ---
 
+### NYC Taxi Operations Intelligence Platform (Databricks Migration) *(2025 – Present)*
+> [Source](https://github.com/Hamza-Bouali/NYC-DATABRICKS) — Databricks migration of the on-premises NYC Taxi pipeline into governed lakehouse data products for fleet operations, finance, and compliance
+
+- Rebuilt the pipeline on **Databricks + Unity Catalog**, using **Auto Loader** for incremental ingestion into a Bronze/Silver/Gold/Quarantine medallion architecture on **Delta Lake**
+- Implemented data-quality rules (invalid timestamps, zero-distance trips, duplicate business keys, negative fares) with quarantine tables for auditability instead of silent data loss
+- Built Gold dimensional models (zone, date) and daily borough performance metrics via **Databricks SQL Warehouses**
+- Deployed and orchestrated jobs with **Databricks Asset Bundles**, replacing the original Docker/Terraform-based on-premises setup
+- Published 3 AI/BI dashboards (Fleet Operations, Financial Performance, Compliance & Quality) consumed by distinct business stakeholders
+
+**Stack:** Databricks · Unity Catalog · Delta Lake · Auto Loader · Databricks SQL · Databricks Asset Bundles · PySpark
+
+---
+
 ### Real-Time Bitcoin ML Pipeline *(2025)*
 > End-to-end streaming data platform for live market analytics
 
@@ -148,6 +161,7 @@ Recent engineering graduate in Knowledge Engineering and Data Science, passionat
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS%20(EC2%2C%20S3%2C%20Lambda%2C%20RDS%2C%20Glue)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20%2F%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-4285F4?style=flat-square&logo=github-actions&logoColor=white)
