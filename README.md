@@ -2,7 +2,7 @@
 
 # Hamza Bouali
 
-**Data Engineer** · Rabat, Morocco
+**Software & Data Engineer** · Rabat, Morocco
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hamza--bouali.me-000000?style=flat-square&logo=react&logoColor=white)](https://hamza-bouali.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Bouali-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-bouali-4b11861a1/)
@@ -16,7 +16,7 @@
 
 ## About Me
 
-Data Engineering passionate about building pipelines and data analysis, with hands-on experience in ETL/ELT, data warehousing, visualization, and NLP. Currently interning as a Data Engineer at Veolia (Rabat), I focus on bringing rigor, automation, and data transformation into actionable dashboards and reliable infrastructure.
+Recent engineering graduate in Knowledge Engineering and Data Science, passionate about building data pipelines and full-stack, AI-powered products. Hands-on experience across ETL/ELT, data warehousing, visualization, and NLP, as well as full-stack development and AI integration (LLMs, RAG, agents). Immediately available for new opportunities.
 
 ---
 
@@ -25,8 +25,8 @@ Data Engineering passionate about building pipelines and data analysis, with han
 | Period | Degree | Institution |
 |---|---|---|
 | 2023 – 2026 | **Data Engineering Degree (Diplôme d'Ingénieur)** | École des Sciences de l'Information (ESI), Rabat |
-| 2021 – 2023 | **CPGE — Mathematics & Physics** | CPGE Mohammed VI , Kenitra |
-| 2021 | **Baccalaureate in Mathematical Sciences (Option B)** | High school , Rabat |
+| 2021 – 2023 | **CPGE — Mathematics & Physics** | CPGE Mohammed VI, Kenitra |
+| 2021 | **Baccalaureate in Mathematical Sciences (Option B)** | High school, Rabat |
 
 > ESI curriculum: Artificial Intelligence · Machine Learning · Deep Learning · Big Data · Cloud Computing · DevOps · Software Engineering
 
@@ -34,39 +34,30 @@ Data Engineering passionate about building pipelines and data analysis, with han
 
 ## 💼 Professional Experience
 
-### 🔵 Data Engineer  — *Veolia*, Rabat *(Feb 2026 – Aug 2026)*
-- Built a data extraction pipeline from on-premises Oracle databases via on-premises data gateway
-- Participating in the design and rollout of a new Data Fabric architecture
+### 🔵 Data Engineer — *Veolia | Software Solutions*, Rabat *(Feb 2026 – Aug 2026)*
+- Built and maintained an on-premise, multi-tenant data factory using **Meltano, dbt, and Podman**
+- Ingested 807+ tables and 58M+ rows (20 GB), reducing processing time by **89%**
+- Translated functional specifications into technical data models, working with architects and business stakeholders in Agile delivery
+
+### 🟣 Data & AI Engineer — Freelance — *OBG Incub*, Rabat *(Jul 2023 – Nov 2025)*
+- Developed full-stack features for external clients: Next.js frontend and backend logic for AI-powered services
+- Integrated an AI chatbot (LangChain, Qdrant, OpenAI API) and a collaborative-filtering recommendation engine
+- Designed backend RAG pipeline logic and deployed services on AWS ECS with CI/CD via GitHub Actions
 
 ### 🟠 Data Analyst Intern — *Decathlon*, Casablanca *(Jun – Aug 2025)*
-- Built ETL pipelines for multi-source internal data extraction and transformation
-- Designed and deployed dynamic dashboards for store performance analysis and strategic insights
-- Contributed to the decision-making process for a new store opening in Salé (2025)
-
-### 🟣 Database Administration & Backend Developer — *OBG Incub*, Rabat *(Jan – May 2025)*
-- Developed and improved the company frontend using Next.js with responsive UI components and performance optimization
-- Integrated an AI chatbot using LangChain, Qdrant, and the OpenAI API, plus a collaborative filtering recommendation engine
-- Designed backend logic for RAG pipelines and deployed services on AWS ECS with CI/CD via GitHub Actions
+- Built a pipeline extracting and consolidating data from 5 internal systems (14 GB)
+- Designed a self-serve dashboard adopted by 9 stakeholders, saving 2 hours per day
 
 ### 🟢 Data Engineer Intern — *AiLand*, Rabat *(Jul 2024)*
-- Cleaned, transformed, and analyzed social media data to produce actionable insights
+- Cleaned, transformed, and analyzed large-scale social media data
 - Contributed to fine-tuning NLP models for localized social listening in Morocco
-- Optimized data pipeline models, improving processing efficiency by **40%**
 
 ---
 
 ## 🚀 Projects
 
-### YG pipeline *(2025)*
-> end-to-end analitycal system for taxis dynamic in NYC
-
-- **stack**: DataBrick warehouse , dbt , airflow , spark , superset , podman , MLFLOW , postgres
-
----
-
-
-### [MemorAI](https://memorai.tech) — Multi-Agent & Multi-Modal Data Management Chatbot *(Jan 2025 – Present)*
-> Intelligent chatbot integrated with WhatsApp, capable of querying and managing multimedia data (text, image, audio, video)
+### [MemorAI](https://memorai.tech) — Multi-Agent & Multi-Modal Data Management Chatbot *(2025)*
+> Intelligent chatbot integrated with WhatsApp, capable of querying and managing multimedia data (text, image, audio, video); validated with 51 test users
 
 - Multi-agent architecture with **LangChain / LangGraph** for task distribution, orchestration, and contextual persistence
 - RAG system powered by **Qdrant** for semantic search, vector indexing, and conversational grounding
@@ -74,6 +65,39 @@ Data Engineering passionate about building pipelines and data analysis, with han
 - Multi-turn conversational context with OpenAI APIs for NLU and data synthesis
 
 **Stack:** Django REST · AWS · Qdrant · LangChain · OpenAI API · GitHub Actions
+
+---
+
+### Data-as-a-Service Pipeline on Microsoft Fabric *(2025)*
+> End-to-end data pipeline based on the Medallion architecture
+
+- Extracted, processed, and analyzed data from clients' on-premises databases (~900 tables, 20 GB per client)
+- Leveraged Microsoft Fabric's unified platform — Lakehouse, OneLake, Data Pipelines, Dataflow Gen2 — to structure Bronze, Silver, and Gold layers
+- Configured JDBC-based connectivity for secure ingestion, refreshing 3x/day (40 min full load, 5 min incremental)
+
+**Stack:** Microsoft Fabric · Lakehouse · OneLake · JDBC
+
+---
+
+### NYC Green Taxi Data Pipeline *(2025)*
+> End-to-end ETL pipeline into a star-schema OLAP warehouse
+
+- Moved ~50 GB of NYC Green Taxi trip data into dimension and fact tables optimized for analytics
+- Configured an Apache Airflow DAG with monthly scheduling, automated data validation, and automatic schema creation
+- Optimized for scale with chunked inserts, connection pooling, and indexing; automated backfill across 71+ months of historical data, with full pipeline runs completing in ~5 minutes
+
+**Stack:** Apache Airflow · Spark · Python · SQL
+
+---
+
+### Real-Time Bitcoin ML Pipeline *(2025)*
+> End-to-end streaming data platform for live market analytics
+
+- Ingested live BTC-USD prices into **Apache Kafka**, processed with **Spark Structured Streaming** for per-batch model training
+- Developed a FastAPI backend (API + interactive Streamlit dashboard) exposing real-time model metrics and batch predictions
+- Orchestrated a multi-container architecture (Kafka, Zookeeper, Spark, dashboard, API) with Docker Compose, with monitoring and metrics persistence
+
+**Stack:** Kafka · Spark · FastAPI · Streamlit · Docker Compose
 
 ---
 
@@ -109,6 +133,7 @@ Data Engineering passionate about building pipelines and data analysis, with han
 ![Kestra](https://img.shields.io/badge/Kestra-1A1A1A?style=flat-square)
 ![ETL/ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-FF6B6B?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL%20Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop%20%2F%20Hive-FF6200?style=flat-square&logo=apachehadoop&logoColor=white)
 
 ### Databases & Storage
@@ -122,6 +147,7 @@ Data Engineering passionate about building pipelines and data analysis, with han
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS%20(EC2%2C%20S3%2C%20Lambda%2C%20RDS%2C%20Glue)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20%2F%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-4285F4?style=flat-square&logo=github-actions&logoColor=white)
@@ -133,7 +159,6 @@ Data Engineering passionate about building pipelines and data analysis, with han
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E4?style=flat-square)
 
 ### Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
@@ -141,10 +166,12 @@ Data Engineering passionate about building pipelines and data analysis, with han
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square)
 
-### Backend & Development
+### Backend & Full-Stack Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React%20%2F%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ---
@@ -156,8 +183,8 @@ Data Engineering passionate about building pipelines and data analysis, with han
 | Data Engineering | Data Engineer Associate — *DataCamp* |
 | Data Science | Data Science Core Designer Certificate |
 | Machine Learning | Supervised Machine Learning — *Stanford / Coursera* |
-| NLP | Natural Language Processing Specialization — *DeepLearning.AI* |
 | Python | Python Data Associate — *DataCamp* |
+| Big Data | Databricks Fundamentals (preparing Databricks Data Engineering Associate) |
 
 ---
 
@@ -174,13 +201,13 @@ Data Engineering passionate about building pipelines and data analysis, with han
 
 ## 👥 Leadership & Volunteering
 
-- **Co-Head, Competitive Programming Cell** — CODE-ESI *(Sep 2024 – Jun 2025)*  
+- **Co-Head, Competitive Programming Cell** — CODE-ESI *(Sep 2024 – Jun 2025)*
   Mentoring engineers in algorithmic problem-solving
 
-- **Treasurer** — JCMP-ESI *(Sep – Dec 2024)*  
+- **Treasurer** — JCMP-ESI *(Sep – Dec 2024)*
   Managed club finances and budgeting
 
-- **Sponsorship & Events Committee Member** — Moroccan Days of Future Data Scientists *(May 2024 – Present)*  
+- **Sponsorship & Events Committee Member** — Moroccan Days of Future Data Scientists *(May 2024 – Present)*
   Coordinated partnerships for national data science events
 
 ---
@@ -205,6 +232,6 @@ Data Engineering passionate about building pipelines and data analysis, with han
 ---
 
 <div align="center">
-  <strong>Open to opportunities in Data Engineering · ETL/ELT · Cloud Data Solutions · MLOps</strong><br/>
+  <strong>Open to opportunities in Data Engineering · Software Engineering · Cloud Data Solutions · AI Integration</strong><br/>
   <a href="mailto:hamzabouali322@gmail.com">hamzabouali322@gmail.com</a> · +212 648 572 537
 </div>
